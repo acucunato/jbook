@@ -7,4 +7,7 @@ a CLI that is designed to be installed on a users machine, to launch an interact
 envoked with command jbook serve
 
 
+https://www.npmjs.com/package/jsnote-asc
+
+
 
