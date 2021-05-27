@@ -1,6 +1,6 @@
 {
   "name": "jsnote-asc",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "files": [
     "dist"
@@ -17,13 +17,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@jsnote-asc/local-client": "^1.0.0"
+    "@jsnote-asc/local-client": "^1.0.2"
   },
   "devDependencies": {
-    "@jsnote-asc/local-api": "^1.0.0",
+    "@jsnote-asc/local-api": "^1.0.2",
     "@types/node": "^15.6.1",
     "commander": "^7.2.0",
     "esbuild": "0.8.26",
     "typescript": "^4.3.2"
-  }
+  },
+  "gitHead": "c3f899411b2dd244a21f8e423c0c23c4ae46400b"
 }
